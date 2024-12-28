@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB8xjavaprograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex-04092024/Lab001.java" afterDir="false" />
+    <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="All the files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Prashanthi246-lab"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Prashanthi246-lab&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Prashanthi246-lab/ATB8xjavaPrograms.git",
-    "accountId": "e04061d8-0997-467c-b318-f16f5a20bf9e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Prashanthi246-lab/ATB8xjavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;e04061d8-0997-467c-b318-f16f5a20bf9e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2qpt2mw0VsMYHjWXeYjrfGkzUb0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab001.executor": "Run",
-    "Application.Lab002.executor": "Run",
-    "Application.Lab003.executor": "Run",
-    "Application.Lab004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Lab002">
+}</component>
+  <component name="RunManager" selected="Application.Lab003">
     <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab0001.Lab001" />
       <module name="ATB8xjavaprograms" />
@@ -122,9 +112,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab003" />
         <item itemvalue="Application.Lab002" />
         <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab003" />
         <item itemvalue="Application.Lab001" />
       </list>
     </recent_temporary>
@@ -138,6 +128,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735371141983</updated>
     </task>
+    <task id="LOCAL-00001" summary="All the files">
+      <option name="closed" value="true" />
+      <created>1735375752076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735375752076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files" />
   </component>
 </project>
