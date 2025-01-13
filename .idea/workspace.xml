@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="All the files">
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_011092024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_011092024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_011092024/Lab009_DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_011092024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/lab011.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/Lab002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/Lab003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/Lab004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex-04092024/Lab001.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +64,29 @@
     &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab003.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab009_DataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab010.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab013.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sept.ex_011092024.Lab007.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab003">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab0001.Lab001" />
+  <component name="RunManager" selected="Application.Lab014">
+    <configuration name="Lab010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_011092024.Lab010" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab0001.*" />
+          <option name="PATTERN" value="sept.ex_011092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.Lab002" />
+    <configuration name="Lab012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_013092024.Lab012" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.*" />
+          <option name="PATTERN" value="sept.ex_013092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.Lab003" />
+    <configuration name="Lab013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_013092024.Lab013" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.*" />
+          <option name="PATTERN" value="sept.ex_013092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +120,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.Lab004" />
+    <configuration name="Lab014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_013092024.Lab014" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.*" />
+          <option name="PATTERN" value="sept.ex_013092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_013092024.lab011" />
+      <module name="ATB8xjavaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sept.ex_013092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,10 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab003" />
-        <item itemvalue="Application.Lab002" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab001" />
+        <item itemvalue="Application.Lab014" />
+        <item itemvalue="Application.Lab013" />
+        <item itemvalue="Application.Lab012" />
+        <item itemvalue="Application.lab011" />
+        <item itemvalue="Application.Lab010" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735375752076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All the files">
+      <option name="closed" value="true" />
+      <created>1735393529866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735393529866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
