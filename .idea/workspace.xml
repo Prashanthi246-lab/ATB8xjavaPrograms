@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="All the files">
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab048.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab054.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sept/ex_013092024/Lab020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab020.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +98,26 @@
     "Application.Lab032.executor": "Run",
     "Application.Lab033.executor": "Run",
     "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
     "Application.lab011.executor": "Run",
     "Application.sept.ex_011092024.Lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,13 +126,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab034">
-    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_013092024.Lab020" />
+  <component name="RunManager" selected="Application.Lab054">
+    <configuration name="Lab050" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_018092024.Lab050" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex_013092024.*" />
+          <option name="PATTERN" value="sept.ex_018092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab031" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab031" />
+    <configuration name="Lab051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_018092024.Lab051" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex_016092024.*" />
+          <option name="PATTERN" value="sept.ex_018092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab032" />
+    <configuration name="Lab052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_018092024.Lab052" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex_016092024.*" />
+          <option name="PATTERN" value="sept.ex_018092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab033" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab033" />
+    <configuration name="Lab053" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_018092024.Lab053" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex_016092024.*" />
+          <option name="PATTERN" value="sept.ex_018092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab034" />
+    <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_018092024.Lab054" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex_016092024.*" />
+          <option name="PATTERN" value="sept.ex_018092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab034" />
-        <item itemvalue="Application.Lab020" />
-        <item itemvalue="Application.Lab033" />
-        <item itemvalue="Application.Lab032" />
-        <item itemvalue="Application.Lab031" />
+        <item itemvalue="Application.Lab054" />
+        <item itemvalue="Application.Lab053" />
+        <item itemvalue="Application.Lab052" />
+        <item itemvalue="Application.Lab051" />
+        <item itemvalue="Application.Lab050" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736880807561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All the files">
+      <option name="closed" value="true" />
+      <created>1736927192299</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736927192299</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,6 +287,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sept/ex_018092024/Lab036.java</url>
+          <line>3</line>
+          <properties class="sept.ex_018092024.Lab036" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sept/ex_018092024/Lab037.java</url>
+          <line>3</line>
+          <properties class="sept.ex_018092024.Lab037" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sept/ex_018092024/Lab039.java</url>
+          <line>3</line>
+          <properties class="sept.ex_018092024.Lab039" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sept/ex_018092024/Lab044.java</url>
+          <line>3</line>
+          <properties class="sept.ex_018092024.Lab044" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
