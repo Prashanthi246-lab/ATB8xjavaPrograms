@@ -1,23 +1,15 @@
-package sept.ex_013092024;
+package sept.ex_016092024;
 
-public class Lab020 {
+public class Lab034 {
     public static void main(String[] args) {
 
-        double a = 34;
-        double b = 10;
+        float a = 34;
+        float b = 10;
 
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a%b);
-
-
-
-
-
-
-
-
     }
 }

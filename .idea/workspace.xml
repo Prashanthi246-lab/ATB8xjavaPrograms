@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="All the files">
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab030.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sept/ex_016092024/Lab034.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sept/ex_013092024/Lab015.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab015.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sept/ex_013092024/Lab020.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sept/ex_013092024/Lab020.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +79,7 @@
     "Application.Lab031.executor": "Run",
     "Application.Lab032.executor": "Run",
     "Application.Lab033.executor": "Run",
+    "Application.Lab034.executor": "Run",
     "Application.lab011.executor": "Run",
     "Application.sept.ex_011092024.Lab007.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,26 +88,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab033">
-    <configuration name="Lab029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab029" />
+  <component name="RunManager" selected="Application.Lab034">
+    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_013092024.Lab020" />
       <module name="ATB8xjavaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sept.ex_016092024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab030" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab030" />
-      <module name="ATB8xjavaprograms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sept.ex_016092024.*" />
+          <option name="PATTERN" value="sept.ex_013092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,13 +141,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab034" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sept.ex_016092024.Lab034" />
+      <module name="ATB8xjavaprograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sept.ex_016092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab034" />
+        <item itemvalue="Application.Lab020" />
         <item itemvalue="Application.Lab033" />
         <item itemvalue="Application.Lab032" />
         <item itemvalue="Application.Lab031" />
-        <item itemvalue="Application.Lab030" />
-        <item itemvalue="Application.Lab029" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736771748200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All the files">
+      <option name="closed" value="true" />
+      <created>1736880807561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736880807561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
