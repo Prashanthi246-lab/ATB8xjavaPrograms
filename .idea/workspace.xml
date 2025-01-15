@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="All the files">
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab039.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab045.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab046.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab048.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab049.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab050.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab052.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sept/ex_018092024/Lab054.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5bb338b0-a8fe-4dbe-882f-683150f7ae6c" name="Changes" comment="All the files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -251,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736927192299</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All the files">
+      <option name="closed" value="true" />
+      <created>1736941220246</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736941220246</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
